@@ -1,4 +1,6 @@
-## Projeto disciplina de Laboratório de Programação Web 💻
+<div align="center"><h1>Projeto disciplina de Laboratório de Programação Web 💻</h1></div>
+
+<div align="center"><h1>Preview</h1></div>
 
 ![planner1](https://user-images.githubusercontent.com/72706630/211191821-12fa283c-495e-4be7-a492-9b1da77c73b1.png)
 #
