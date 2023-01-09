@@ -7,6 +7,9 @@
 ## ✔️ Tecnologias utilizadas
 
 - ``ReactJS``
+
+## 📕 Bibliotecas
+
 - ``Styled-components``
 
 ## 📁 Acesso ao projeto
